@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74584426700",
+    "project_id": "practica-928fe",
+    "storage_bucket": "practica-928fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74584426700:android:8ee3f170674c96f2cd5a69",
+        "android_client_info": {
+          "package_name": "com.example.practica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74584426700-ojvtassesfs9mquabtp4crh58irsiivj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl68rk04ZUu1OfOS3TfLQbG0I4plBddgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74584426700-ojvtassesfs9mquabtp4crh58irsiivj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
